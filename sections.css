@@ -1,0 +1,239 @@
+.section-1{
+    height: 725px;
+    width: 100%;
+    padding-top: 50px;
+   
+    
+    
+}
+.content-1-sec-1{
+    width: 100%;
+    height: 116px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.img-allign{
+    margin-left: 150px;
+    margin-top: 40px;            
+
+}
+.home-stores{
+    margin-left: 340px;
+    margin-top: 40px;
+    padding-top: 15px;
+}
+span{
+    margin-left: 50px;
+    font-weight: lighter;
+    
+}
+.content-2-sec-2{
+    width: 100%;
+    height: 616px;
+    display: flex;
+    justify-content: center;
+}
+.right-section{
+    height: 515px;
+
+}
+.left-section{
+    width: 515px;
+    height: 435px;
+    background-color: rgb(242, 243, 253);
+    padding: 40px;
+}
+.h1-allign{
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0.023em;
+    margin-bottom: 16px;
+    text-align: center;
+    font-family: 'Playfair Display', Georgia, serif;
+}
+.p-allign{
+    font-size: 18px;
+    color: rgb(87, 87, 87);
+    font-family: 'Open Sans', arial, sans-serif;
+    text-align: center;
+}
+.button-shape{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 32px;
+}
+.button-allign{
+    background-color: rgb(24, 36, 138);
+    color: #fff;
+   
+    font-size: 16px;
+    padding-top: 20px;
+  
+    font-family: 'Open Sans', arial, sans-serif;
+    width: 144px;
+    height: 34px;
+  
+}
+.section-2{
+    width: 100%;
+    height: 778px;
+
+    padding-top: 40px;
+}
+
+.know-about-cococoopa{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 692px;
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about-coopa{
+    margin-left: 155px;
+    margin-bottom: 32px;
+    font-size: 16px;
+    font-family: 'Open Sans', arial, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.125em;
+    letter-spacing: 0.125em;
+    color: rgb(24, 36, 138);
+}
+.box-allign{
+    width: 338px;
+    background-color: rgb(242, 243, 253);
+    text-align: center;
+}
+.h4-allign{
+    font-size: 22px;
+   
+    font-weight: 400;
+    letter-spacing: 0.045em;
+    line-height: 1.25;
+}
+.box-para-sec-2{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(94, 94, 94);  
+    line-height: 1.5;
+    letter-spacing: normal;
+    margin-left: 32px;
+    margin-right: 32px;
+    font-family: 'Open Sans', arial, sans-serif;
+}
+
+.section-3{
+    display: grid;
+    height: 600px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.sec-3-img-allign{
+    width: 490px;
+    height: 300px;
+}
+.img-inherit{
+    width: inherit;
+    height: inherit;
+    transition: transform 0.5s ease 0s;
+    cursor: pointer;
+}
+.img-inherit:hover{
+    
+    transform: scale(1.05);
+    
+}
+
+.section-4{
+    width: 100%;
+    height: 2127px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+}
+.section-4-in{
+    width: 1160px;
+    height: inherit;
+    margin: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 16px;
+    font-family: 'Open Sans', arial, sans-serif;
+    
+}
+.sec-4-menu{
+    color: rgb(24, 36, 138);
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.125em;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+.menu-head{
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 0.031em;
+    font-weight: 400;
+    font-family: 'Playfair Display', Georgia, serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.menu-discription{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(89, 89, 89);
+    text-align: center;
+}
+.sec-4-container{
+    display: flex;
+    border-color: rgb(94, 94, 94);
+    border-bottom: 1px solid;
+    padding-bottom: 48px;
+}
+.sec-4-container-set{
+    width: 360px;
+    margin-right: auto;
+}
+.name-price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item-name{
+    font-size: 22px;
+    font-weight: 300;
+   
+    letter-spacing: 0.045em;
+}
+.item-discription{
+    color: rgb(94, 94, 94);
+    line-height: 1.5;
+}
+
+.more-dishes-sec{
+    padding-top: 35px;
+}
+.dishes-head{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Playfair Display', Georgia, serif;
+    margin-bottom: 0;
+}
+.dishes-p{
+    text-align: center;
+    font-size: 14px;
+    color: rgb(89, 89, 89);
+    padding-bottom: 40px;
+}
+.dish-containers{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    grid-row-gap: 58px;
+}

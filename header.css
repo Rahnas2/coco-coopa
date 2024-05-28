@@ -1,0 +1,33 @@
+.header{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: GD Sherpa, Helvetica, Arial, sans_serif;
+    font-size: 14px;
+    border-bottom: 5px solid #00A4A6;
+    position: fixed;
+    z-index: 1;
+    background: #fff;
+    
+}
+.curser-action{
+    cursor: pointer;
+}
+.godaddy{
+    font-weight: bold;
+    cursor: pointer;
+}
+.header-icon{
+    margin-right: 8px;
+    cursor: pointer;
+}
+.start-button{
+    border: 1px solid #8995A9;
+    border-radius: 4px;
+    margin-left: 12px;
+    padding: 8px 24px;
+    cursor: pointer;
+
+}
